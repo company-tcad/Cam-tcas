@@ -1,6 +1,6 @@
 {
-  "name": "Lumina Cine-Pro SDK",
-  "description": "A high-performance cinematic camera and 3D scanner with real-time AI-assisted topology analysis.",
+  "name": "Lumina Quantum-Cine",
+  "description": "Professional 4D camera with deterministic mathematical relief mapping and local neural optimization.",
   "requestFramePermissions": [
     "camera"
   ]

@@ -15,17 +15,8 @@ export interface CameraSettings {
   lut: 'none' | 'log-c' | 'cine-teal' | 'vintage';
 }
 
-export interface ScanResult {
+export interface FrameStats {
   vertices: number;
-  topologyScore: number;
-  uvStatus: string;
-  defects: string[];
-  suggestedFix: string;
-}
-
-export interface SceneAnalysis {
-  luminance: number;
-  colorTemp: string;
-  detectedObjects: string[];
-  suggestions: string;
+  score: number;
+  latency: number;
 }
