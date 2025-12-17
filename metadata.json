@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Cine-Pro SDK",
+  "description": "A high-performance cinematic camera and 3D scanner with real-time AI-assisted topology analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
